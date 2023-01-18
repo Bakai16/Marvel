@@ -85,5 +85,4 @@ const View = ({char}) => {
     )
 }
 
-
 export default RandomChar;
