@@ -19,12 +19,13 @@ const MainPage = () => {
 
     return (
         <>
-            <Helmet>
+            <Helmet >
                 <meta
                     name="description"
                     content="Marvel information portal"
                     />
                 <title>Marvel information portal</title>
+                
             </Helmet>
             <ErrorBoundary>
                 <RandomChar/>
